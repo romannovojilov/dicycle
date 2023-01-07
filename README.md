@@ -1,2 +1,2 @@
-# dicycle
+# DIcycle
 Simple IoC Container
